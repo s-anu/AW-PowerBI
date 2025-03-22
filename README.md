@@ -1,5 +1,5 @@
 
-# Project Title
+# Power-BI Dashboard
 
 Creating interactive Dashboard of AdventureWorks Cycle a fictional manufacturing company.
 
